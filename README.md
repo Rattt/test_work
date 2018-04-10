@@ -192,7 +192,7 @@
 * Недостаточная поддержка в `Rails` сообществе.
 
 ### Известные мне `ORM`
- `Active Records`, `OHM`, `DataMapper`, `ROM`, `Sequel`
+`OHM`, `DataMapper`, `ROM`, `Sequel`
 
 ### Выводы:
 Большая разница между стилем `Active Record` и стилем `Data Mapper` заключается в том, 
